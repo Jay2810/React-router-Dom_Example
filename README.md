@@ -1,2 +1,20 @@
-# React-router-Dom_Example
-Created with CodeSandbox
+<h1>React-router-Dom_Example</h1>
+
+<h3>Basic app to illustrate how to render components without reloading Page.</h3>
+
+
+Dependencies
+
+axios
+@chakra-ui/icons
+@chakra-ui/react
+@choc-ui/chakra-autocomplete
+@choc-ui/logo
+@choc-ui/paginator
+@emotion/react
+@emotion/styled
+react-router-dom  @v6
+
+
+Used Pre-built components from https://choc-ui.com/ 
+for chakra-UI
